@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d82aacdb-eab1-41f4-9288-7ad893db3d60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/modelo/EstudianteAdministracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/EstudianteIndustrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/EstudianteInformatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/GuardarEstudianteDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/IEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Envio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Envio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/EmailOutlook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/EmailOutlook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/service/EnvioMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/EnvioMaterial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -40,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/dsaavedra/Documents/unisabana/repo/homework-solid/src",
+    "last_opened_file_path": "C:/Users/migue/OneDrive/Escritorio/Semestre 6/homeworksolid",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -78,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674696539052</updated>
       <workItem from="1674696540337" duration="3545000" />
+      <workItem from="1674929614836" duration="12778000" />
     </task>
     <servers />
   </component>

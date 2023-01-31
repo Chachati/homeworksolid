@@ -1,6 +1,6 @@
 package modelo;
 
-public class Estudiante {
+public abstract class Estudiante {
 
     public String nombre;
     public String carrera;
@@ -9,9 +9,7 @@ public class Estudiante {
         this.nombre = nombre;
         this.carrera = carrera;
     }
-
-    void guardarEstudiante() {
-        System.out.println("Guardando estudiante en base de datos");
-    }
+    public abstract Envio EnviarMaterial(Envio envio);
+    public abstract String EnviarCarreras();
 
 }
